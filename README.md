@@ -10,7 +10,7 @@ An Android Countdown Timer, written with Jetpack Compose
 
 
 ## :bulb: Motivation and Context
-Animations are so easy to use with Compose !
+Animations are so easy to use with Compose!
 
 
 ## :camera_flash: Screenshots
